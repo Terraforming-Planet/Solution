@@ -95,3 +95,7 @@ The aim of the project is to engage global technology leaders, platforms such as
 
 Does this form of description correspond to your vision? If so, we can move on to implementation!
 test for 
+ **Chciałbym  zrobić swoje prototypy procesorów CPU i GPU o budowie sześciennej ,warstwowej chłodzonej każdy poziom ale chcę zastosować swoją matematykę równań w  programowania matematycznego po miedzy E=mc² ,a E=mc³ , i E=mc⁶ model dostrojony prawidłowo **
+
+Moje pytanie jest następujące dlaczego metry sześcienne są określane w sposób m³ uwaga to nie metry sześcienne tylko trzy ścienne prawidłowy zapis powinien wyglądać m⁶.
+Ponieważ na przykład 2 metry sześcienne to sześć boków każdy po dwa metry  , a wszystkie silnik latają na m³ czy będę miał problemy z programowaniem  jestem początkującym ale pracuje nad grą i potrzebuje modelu który prawidłowo rozumie fizykę i dlatego chcę zrobić program i własne prototypy procesorów jeśli to będzie konieczność.
